@@ -1,16 +1,7 @@
 # geminos_test
 
-A new Flutter project.
+-A  Flutter project for Authentication of mobile app using OTP.
+-App includes show simple notification.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[geminosapp_screenshots.pdf](https://github.com/HudaLatheef/geminos_test/files/8810657/geminosapp_screenshots.pdf)
