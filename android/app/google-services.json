@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363582042735",
+    "project_id": "geminos-test",
+    "storage_bucket": "geminos-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363582042735:android:c4353978b2d8f6a2bf939a",
+        "android_client_info": {
+          "package_name": "com.example.geminos_tests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363582042735-jtstrv4mdqpjtklj0rlt62ji04801gko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMr4b0sIispteK6UIK-G733HahczUuoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363582042735-jtstrv4mdqpjtklj0rlt62ji04801gko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
