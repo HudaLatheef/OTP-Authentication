@@ -1,6 +1,6 @@
-# geminos_test
+# Authentication using OTP
 
--A  Flutter project for Authentication of mobile app using OTP.
+-A  Flutter project for Authentication of app using OTP.
 -App includes show simple notification.
 
 
