@@ -1,9 +1,4 @@
-![g6](https://user-images.githubusercontent.com/90184414/175295355-3fd2a638-505d-42fd-be8e-e0c47489c265.jpeg)
-![g5](https://user-images.githubusercontent.com/90184414/175295358-000df6ff-45f5-4834-bfba-930e24605cd5.jpeg)
-![g4](https://user-images.githubusercontent.com/90184414/175295363-191d1854-d637-4b2b-90c4-94438d6d085e.jpeg)
-![g3](https://user-images.githubusercontent.com/90184414/175295364-7cdec178-6a36-4788-84ec-cc934c113788.jpeg)
-![g2](https://user-images.githubusercontent.com/90184414/175295369-f1baa9f1-8f49-4487-8fb9-fd68c950c402.jpeg)
-![g1](https://user-images.githubusercontent.com/90184414/175295376-aeda52c6-1aea-4e88-9520-a6c06955f8c3.jpeg)
+
 # Authentication using OTP
 
 -A  Flutter project for Authentication of app using OTP.
@@ -11,3 +6,10 @@
 
 
 [geminosapp_screenshots.pdf](https://github.com/HudaLatheef/geminos_test/files/8810657/geminosapp_screenshots.pdf)
+![g1](https://user-images.githubusercontent.com/90184414/175295576-285e35c6-da6c-4a8f-a4d7-950c3e8bad24.jpeg)
+![g2](https://user-images.githubusercontent.com/90184414/175295598-3d7ef02e-e32b-4544-9131-f176eb76c901.jpeg)
+![g3](https://user-images.githubusercontent.com/90184414/175295612-b067cf5b-07d5-4f73-8f88-676750bd043f.jpeg)
+![g4](https://user-images.githubusercontent.com/90184414/175295633-409d106f-077e-45b9-9e6d-3edf804665ec.jpeg)
+![g5](https://user-images.githubusercontent.com/90184414/175295655-a24950cb-386f-44aa-822e-650c0c4dc4db.jpeg)
+![g6](https://user-images.githubusercontent.com/90184414/175295670-8d457f30-f822-47f6-acea-fd6433020491.jpeg)
+
